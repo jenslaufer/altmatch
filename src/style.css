@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 @import "@fontsource-variable/merriweather";
 @import "@fontsource-variable/montserrat";
 
@@ -10,9 +12,6 @@
   --color-brand0: #ffffff;
   --color-brand1: #000000;
 }
-
-/* Tailwind laden */
-@import "tailwindcss";
 
 /* Basis-Schrift global anwenden */
 @layer base {

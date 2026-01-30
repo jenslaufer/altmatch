@@ -21,7 +21,7 @@
             </p>
 
             <div class="flex flex-col items-center justify-center gap-3">
-                <a href="#" class="inline-flex items-center justify-center rounded-full px-6 py-3 text-lg font-semibold
+                <a href="https://chromewebstore.google.com/detail/altmatch%E2%80%93product-alternat/cnagkakcgaplmmhbaapngkmijliogheo?authuser=0&hl=en" class="inline-flex items-center justify-center rounded-full px-6 py-3 text-lg font-semibold
                  bg-emerald-500 hover:bg-emerald-400 text-black shadow-lg shadow-emerald-500/30
                  transition-transform duration-150 hover:-translate-y-0.5">
                     {{ cta }}
